@@ -258,7 +258,7 @@ header
 .header-area .main-nav .logo {
   line-height: 120px;
   color: #fff;
-  font-size: 28px;
+  font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -402,7 +402,7 @@ header
   opacity: 1;
   display: block;
   background: #f7f7f7;
-  color: #2a2a2a!important;
+  color: #fff!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -573,7 +573,7 @@ header
 
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
-    color: #1e1e1e;
+    color: #fff;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -746,7 +746,7 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 56px;
+  font-size: 34.61px;
   color: #fff;
   font-weight: 700;
   opacity: 1;
@@ -767,7 +767,7 @@ banner
 
 .slide-inner .header-text p {
   color: #fff;
-  margin-right: 60px;
+  margin-right: 37.082px;
   margin-bottom: 50px;
   opacity: 1;
   visibility: visible;
